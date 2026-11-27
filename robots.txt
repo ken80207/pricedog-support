@@ -1,0 +1,59 @@
+# Authoritative robots URL: https://ken80207.github.io/robots.txt
+# Search access is not training consent.
+
+User-agent: *
+Allow: /
+Disallow: /.git/
+Disallow: /.github/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /.git/
+Disallow: /.github/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /.git/
+Disallow: /.github/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /.git/
+Disallow: /.github/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /.git/
+Disallow: /.github/
+
+User-agent: Applebot
+Allow: /
+Disallow: /.git/
+Disallow: /.github/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /.git/
+Disallow: /.github/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /.git/
+Disallow: /.github/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+Sitemap: https://ken80207.github.io/pricedog-support/sitemap.xml
